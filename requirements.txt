@@ -1,0 +1,6 @@
+aiosqlite
+aiogram==3.*
+telethon
+geopy
+python-dotenv
+openai
